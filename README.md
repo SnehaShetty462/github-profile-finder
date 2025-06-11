@@ -1,12 +1,19 @@
-# React + Vite
+🚀 GitHub Profile Finder
+A simple React app that allows you to search for any GitHub user and display their public profile data using the GitHub Users API.
+🛠 Features
+🔎 Search GitHub users by username
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📊 View user details: name, avatar, followers, following, public repos, account creation date
 
-Currently, two official plugins are available:
+⚡ Real-time API fetching using fetch() and async/await
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧩 Built with reusable React components
 
-## Expanding the ESLint configuration
+📦 Tech Stack
+React
+JavaScript (ES6+)
+CSS
+Html
+GitHub REST API v3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
